@@ -1,0 +1,12 @@
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\bin\Debug\netcoreapp3.1\blLayer.deps.json
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\bin\Debug\netcoreapp3.1\blLayer.dll
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\bin\Debug\netcoreapp3.1\blLayer.pdb
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\obj\Debug\netcoreapp3.1\blLayer.csprojAssemblyReference.cache
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\obj\Debug\netcoreapp3.1\blLayer.AssemblyInfoInputs.cache
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\obj\Debug\netcoreapp3.1\blLayer.AssemblyInfo.cs
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\obj\Debug\netcoreapp3.1\blLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\obj\Debug\netcoreapp3.1\blLayer.dll
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\obj\Debug\netcoreapp3.1\blLayer.pdb
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\bin\Debug\netcoreapp3.1\dlLayer.dll
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\bin\Debug\netcoreapp3.1\dlLayer.pdb
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\blLayer\obj\Debug\netcoreapp3.1\blLayer.csproj.CopyComplete

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StudentViolationRecordManagementSystem/1.0.0": {
+        "dependencies": {
+          "blLayer": "1.0.0",
+          "dlLayer": "1.0.0"
+        },
+        "runtime": {
+          "StudentViolationRecordManagementSystem.dll": {}
+        }
+      },
+      "blLayer/1.0.0": {
+        "dependencies": {
+          "dlLayer": "1.0.0"
+        },
+        "runtime": {
+          "blLayer.dll": {}
+        }
+      },
+      "dlLayer/1.0.0": {
+        "runtime": {
+          "dlLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentViolationRecordManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "blLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dlLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

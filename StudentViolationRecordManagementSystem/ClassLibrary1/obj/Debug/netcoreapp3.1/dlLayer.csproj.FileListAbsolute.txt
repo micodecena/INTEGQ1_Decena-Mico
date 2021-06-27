@@ -1,0 +1,9 @@
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\bin\Debug\netcoreapp3.1\dlLayer.deps.json
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\bin\Debug\netcoreapp3.1\dlLayer.dll
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\bin\Debug\netcoreapp3.1\dlLayer.pdb
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\obj\Debug\netcoreapp3.1\dlLayer.csprojAssemblyReference.cache
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\obj\Debug\netcoreapp3.1\dlLayer.AssemblyInfoInputs.cache
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\obj\Debug\netcoreapp3.1\dlLayer.AssemblyInfo.cs
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\obj\Debug\netcoreapp3.1\dlLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\obj\Debug\netcoreapp3.1\dlLayer.dll
+C:\Users\Mico-pc\source\repos\StudentViolationRecordManagementSystem\ClassLibrary1\obj\Debug\netcoreapp3.1\dlLayer.pdb
